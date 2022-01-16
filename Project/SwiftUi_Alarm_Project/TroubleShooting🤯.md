@@ -10,3 +10,7 @@
 2. 좋은 구조란? some View와 모디파이어를 어떻게 구분해서 써야할지
 
 3. 반응형 그리드 뷰 아이템
+
+4. ViewModifier에 초기 값을 어떻게 전달하고 initialize 할지에 대한 접근 방법
+   Cannot use instance member 'length' within property initializer; property initializers run before 'self' is available
+5. 
