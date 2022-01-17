@@ -13,4 +13,7 @@
 
 4. ViewModifier에 초기 값을 어떻게 전달하고 initialize 할지에 대한 접근 방법
    Cannot use instance member 'length' within property initializer; property initializers run before 'self' is available
-5. 
+
+5. 알람을 설정하는 과정에서 MVVM패턴을 어떠헥 활용하면 좋을지. (하나의 MVVM, 여러개의 MVVM 구조)
+
+6. About @State & @Binding 키워드
