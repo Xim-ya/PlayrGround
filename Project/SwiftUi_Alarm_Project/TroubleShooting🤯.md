@@ -17,3 +17,6 @@
 5. 알람을 설정하는 과정에서 MVVM패턴을 어떠헥 활용하면 좋을지. (하나의 MVVM, 여러개의 MVVM 구조)
 
 6. About @State & @Binding 키워드
+
+7. Custom AlertModal
+   
