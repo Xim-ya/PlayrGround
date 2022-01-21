@@ -19,4 +19,10 @@
 6. About @State & @Binding 키워드
 
 7. Custom AlertModal
+
+8. Type-safe identifiers in Swift 
    
+
+
+### 느낀점, 회고
+1) 네이트플랫폼의 이점. ex) Text time, date format initializer
